@@ -1,3 +1,8 @@
+#### Name: Bhumika Dhingra(https://github.com/bhumikadhingra)
+- Place: Delhi, Delhi, India
+- Bio: B.Tech Student
+- GitHub: bhumikadhingra(https://github.com/bhumikadhingra)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
